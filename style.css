@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
   table-layout: fixed;
   font-size: 18px;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
 }
 
 main {
